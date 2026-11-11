@@ -13,7 +13,7 @@ cask "flick" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Flick.app"
 
