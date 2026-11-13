@@ -1,6 +1,6 @@
 cask "flick" do
-  version "0.2.0"
-  sha256 "6502fa731298c2adc57673214e1cda646b2898a3816b2676625a8e0c792cfa97"
+  version "0.3.0"
+  sha256 "52b06a5d2a425772b20337abe913925059bc08b0c5787b8ad6092b5bea4a59e6"
 
   url "https://github.com/zmievsa/flick/releases/download/v#{version}/Flick-#{version}.zip"
   name "Flick"
