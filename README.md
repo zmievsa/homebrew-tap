@@ -1,7 +1,7 @@
 # zmievsa/tap
 
 ```sh
-brew install zmievsa/tap/flick
+brew install zmievsa/tap/fabaka
 ```
 
-- [Flick](https://github.com/zmievsa/flick): ⌘Tab window switcher for macOS without screen capture
+- [Fabaka](https://github.com/zmievsa/fabaka): ⌘Tab window switcher for macOS without screen capture (formerly Flick)
