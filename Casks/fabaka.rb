@@ -5,7 +5,7 @@ cask "fabaka" do
   url "https://github.com/zmievsa/fabaka/releases/download/v#{version}/Fabaka-#{version}.zip"
   name "Fabaka"
   desc "Command-Tab window switcher without screen capture"
-  homepage "https://github.com/zmievsa/fabaka"
+  homepage "https://fabaka.dev"
 
   livecheck do
     url :url
